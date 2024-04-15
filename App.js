@@ -5,6 +5,7 @@ import {
   BottomSheetModalProvider,
   BottomSheetTextInput,
   BottomSheetView,
+  useBottomSheetModal,
 } from "@gorhom/bottom-sheet";
 import { StatusBar } from "expo-status-bar";
 import { useRef } from "react";
@@ -24,11 +25,12 @@ import MainStack from "./src/route/MainStack";
 export default function App() {
   // const bottomSheetRef = useRef(null);
 
+
   return (
     <NavigationContainer>
       <SafeAreaProvider>
         <GestureHandlerRootView style={{ flex: 1 }}>
-          <BottomSheetModalProvider>
+          {/* <BottomSheetModalProvider> */}
             <KeyboardAvoidingView className="flex-1">
               <MainStack />
               {/* <SafeAreaView className=" flex-1 bg-yellow-400">
@@ -75,7 +77,7 @@ export default function App() {
                 </BottomSheetModal>
               </SafeAreaView> */}
             </KeyboardAvoidingView>
-          </BottomSheetModalProvider>
+          {/* </BottomSheetModalProvider> */}
         </GestureHandlerRootView>
       </SafeAreaProvider>
     </NavigationContainer>

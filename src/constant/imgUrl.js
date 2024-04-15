@@ -6,4 +6,7 @@ export const message =
   "https://res.cloudinary.com/krishanucloud/image/upload/v1713197055/WhatsApp_Image_2024-04-15_at_9.30.19_PM-removebg-preview_yng2uo.png";
 export const offer =
   "https://res.cloudinary.com/krishanucloud/image/upload/v1713197055/WhatsApp_Image_2024-04-15_at_9.29.51_PM-removebg-preview_lvozit.png";
-export const smallArrow = "https://res.cloudinary.com/krishanucloud/image/upload/v1707917210/backArrow_naipuv.png";
+export const smallArrow =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1707917210/backArrow_naipuv.png";
+export const mobile =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713205154/WhatsApp_Image_2024-04-15_at_10.40.29_PM_cleanup_k9xsqq.png";
