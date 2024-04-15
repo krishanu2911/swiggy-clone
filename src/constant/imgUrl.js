@@ -10,3 +10,19 @@ export const smallArrow =
   "https://res.cloudinary.com/krishanucloud/image/upload/v1707917210/backArrow_naipuv.png";
 export const mobile =
   "https://res.cloudinary.com/krishanucloud/image/upload/v1713205154/WhatsApp_Image_2024-04-15_at_10.40.29_PM_cleanup_k9xsqq.png";
+export const swiggy =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713211214/swiggy_tzohew.png";
+export const swiggySelected =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713209312/swiggySelected_a6ulpu.png";
+export const food =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713209312/food_ftame9.png";
+export const foodSelected =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713209864/foodSelected_gzdeev.png";
+export const geine =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713209312/genie_go3v6n.png";
+export const dineout =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713209312/dineout_dh4boj.png";
+export const instamart =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713209312/instamart_vrxvn1.png";
+export const instamartSelected =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713209968/instamartSelected_tbokbo.jpg";
