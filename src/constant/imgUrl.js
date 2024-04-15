@@ -26,3 +26,21 @@ export const instamart =
   "https://res.cloudinary.com/krishanucloud/image/upload/v1713209312/instamart_vrxvn1.png";
 export const instamartSelected =
   "https://res.cloudinary.com/krishanucloud/image/upload/v1713209968/instamartSelected_tbokbo.jpg";
+export const orangeHome =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713212120/Vector_2_iasunb.png";
+export const user =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713212141/User_mi48nm.png";
+export const downArrow =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1704360164/downArrow_w8zm0b.png";
+export const mic =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713213512/Vector_4_hroplm.png";
+export const glass =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713213639/Vector_5_kkwotn.png";
+export const insta1 =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713216380/WhatsApp_Image_2024-04-15_at_5.25.13_PM-removebg-preview_emweox.png";
+export const genieBox =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713217824/WhatsApp_Image_2024-04-16_at_3.19.06_AM_crtzbu.jpg";
+export const dineoutImg =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713218678/WhatsApp_Image_2024-04-16_at_3.31.52_AM-removebg-preview_ens8cp.png";
+export const cake =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713218777/WhatsApp_Image_2024-04-16_at_3.32.41_AM-removebg-preview_lxbndz.png";
