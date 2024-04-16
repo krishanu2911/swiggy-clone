@@ -18,7 +18,7 @@ const HomeScreen = () => {
   const navigation = useNavigation();
   return (
     <SafeAreaView  edges={["top", "bottom"]} className="flex-1">
-      <StatusBar style="dark" backgroundColor="#FFFFFF" />
+      <StatusBar style="dark" backgroundColor="white" />
       <ScrollView bounces={false} className="flex-1 bg-[#d9d9d91a]">
         {/* header */}
 

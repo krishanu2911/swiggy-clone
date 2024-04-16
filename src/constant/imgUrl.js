@@ -44,3 +44,19 @@ export const dineoutImg =
   "https://res.cloudinary.com/krishanucloud/image/upload/v1713218678/WhatsApp_Image_2024-04-16_at_3.31.52_AM-removebg-preview_ens8cp.png";
 export const cake =
   "https://res.cloudinary.com/krishanucloud/image/upload/v1713218777/WhatsApp_Image_2024-04-16_at_3.32.41_AM-removebg-preview_lxbndz.png";
+export const offerBox =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713221816/WhatsApp_Image_2024-04-16_at_4.22.31_AM-removebg-preview_iecznf.png";
+export const glassBoy =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713221816/WhatsApp_Image_2024-04-16_at_4.23.56_AM-removebg-preview_s5eiur.png";
+export const noddles =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713221816/WhatsApp_Image_2024-04-16_at_4.23.19_AM-removebg-preview_x6w5lg.png";
+export const dish1 =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713223946/Rectangle_27_nacftj.png";
+export const dish2 =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713223946/Rectangle_25_tlkjys.png";
+export const dish3 =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713225756/Rectangle_12_fakk1n.png";
+export const star =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713225756/Exclude_qcm4ql.png";
+export const heart =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713225756/Vector_6_ow0xkf.png";
