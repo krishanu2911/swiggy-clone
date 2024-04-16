@@ -65,7 +65,7 @@ export const instaBanner =
 export const panner =
   "https://res.cloudinary.com/krishanucloud/image/upload/v1713230287/WhatsApp_Image_2024-04-16_at_6.32.49_AM_p2dt41.jpg";
 export const coconut =
-  "https://res.cloudinary.com/krishanucloud/image/upload/v1713230287/WhatsApp_Image_2024-04-16_at_6.32.49_AM_p2dt41.jpg";
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713230318/WhatsApp_Image_2024-04-16_at_6.33.34_AM_fwnxp8.jpg";
 export const vegetable =
   "https://res.cloudinary.com/krishanucloud/image/upload/v1713231550/WhatsApp_Image_2024-04-16_at_7.05.43_AM-removebg-preview_etqakq.png";
 export const offerTag = "https://res.cloudinary.com/krishanucloud/image/upload/v1713232741/Group_8_1_wbazhg.png";

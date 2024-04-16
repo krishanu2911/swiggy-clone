@@ -11,6 +11,7 @@ import {
   useSafeAreaInsets,
 } from "react-native-safe-area-context";
 import {
+  coconut,
   downArrow,
   glass,
   instaBanner,
@@ -140,11 +141,11 @@ const InstamartScreen = () => {
           className="px-6 mb-6"
           showsHorizontalScrollIndicator={false}
         >
+          <InstamartCard url={coconut} offer={true} />
           <InstamartCard url={panner} offer={true} />
+          <InstamartCard url={coconut} offer={true} />
           <InstamartCard url={panner} offer={true} />
-          <InstamartCard url={panner} offer={true} />
-          <InstamartCard url={panner} offer={true} />
-          <InstamartCard url={panner} offer={true} />
+          <InstamartCard url={coconut} offer={true} />
         </ScrollView>
       </ScrollView>
     </SafeAreaView>
