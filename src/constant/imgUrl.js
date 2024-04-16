@@ -60,3 +60,12 @@ export const star =
   "https://res.cloudinary.com/krishanucloud/image/upload/v1713225756/Exclude_qcm4ql.png";
 export const heart =
   "https://res.cloudinary.com/krishanucloud/image/upload/v1713225756/Vector_6_ow0xkf.png";
+export const instaBanner =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713227992/WhatsApp_Image_2024-04-16_at_6.02.43_AM_od8oaq.jpg";
+export const panner =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713230287/WhatsApp_Image_2024-04-16_at_6.32.49_AM_p2dt41.jpg";
+export const coconut =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713230287/WhatsApp_Image_2024-04-16_at_6.32.49_AM_p2dt41.jpg";
+export const vegetable =
+  "https://res.cloudinary.com/krishanucloud/image/upload/v1713231550/WhatsApp_Image_2024-04-16_at_7.05.43_AM-removebg-preview_etqakq.png";
+export const offerTag = "https://res.cloudinary.com/krishanucloud/image/upload/v1713232741/Group_8_1_wbazhg.png";

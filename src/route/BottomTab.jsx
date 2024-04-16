@@ -15,7 +15,6 @@ const BottomTab = () => {
           paddingHorizontal: 12,
           height: 80,
           paddingBottom: 16,
-          paddingTop: 8,
         },
       }}
     >
